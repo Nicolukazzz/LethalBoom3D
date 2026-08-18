@@ -1,0 +1,12 @@
+{
+    "name": "Game.Presentation",
+    "rootNamespace": "LethalBoom.Presentation",
+    "references": [
+        "Game.Core",
+        "Game.Gameplay",
+        "Game.Input",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro"
+    ],
+    "autoReferenced": true
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Game.Tests.PlayMode",
+    "rootNamespace": "LethalBoom.Tests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Game.Core",
+        "Game.Input",
+        "Game.Gameplay",
+        "Game.Presentation",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "autoReferenced": false
+}

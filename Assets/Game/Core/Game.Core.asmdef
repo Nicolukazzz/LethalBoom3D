@@ -1,0 +1,6 @@
+{
+    "name": "Game.Core",
+    "rootNamespace": "LethalBoom.Core",
+    "references": [],
+    "autoReferenced": true
+}

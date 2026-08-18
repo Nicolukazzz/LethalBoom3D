@@ -1,0 +1,14 @@
+{
+    "name": "Game.Editor",
+    "rootNamespace": "LethalBoom.EditorTools",
+    "references": [
+        "Game.Core",
+        "Game.Gameplay",
+        "Game.Presentation",
+        "Game.Input"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "autoReferenced": true
+}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c99582e8811b5473e8c699b09ee2f156, type: 3}
+  m_Name: PortalRules
+  m_EditorClassIdentifier: Game.Gameplay::LethalBoom.Gameplay.Portals.PortalRules
+  allowDuringPreparation: 1
+  allowDuringPlay: 0
+  portalsPerPlayer: 2
+  placementSurfaces:
+    serializedVersion: 2
+    m_Bits: 0
+  maxPlacementDistance: 20
+  surfaceOffset: 0.05
+  minDistanceFromGoal: 2
+  minDistanceFromRivalPortal: 2
+  maxSurfaceAngle: 80
+  playersCanTravel: 1
+  discCanTravel: 1
+  ownerOnly: 0
+  travelCooldown: 0.15
+  exitSpeedMultiplier: 1
+  exitOffset: 0.2

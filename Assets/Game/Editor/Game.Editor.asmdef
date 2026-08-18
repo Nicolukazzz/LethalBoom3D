@@ -5,7 +5,8 @@
         "Game.Core",
         "Game.Gameplay",
         "Game.Presentation",
-        "Game.Input"
+        "Game.Input",
+        "Unity.InputSystem"
     ],
     "includePlatforms": [
         "Editor"

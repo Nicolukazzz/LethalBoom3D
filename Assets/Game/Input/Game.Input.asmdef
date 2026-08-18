@@ -1,0 +1,9 @@
+{
+    "name": "Game.Input",
+    "rootNamespace": "LethalBoom.Input",
+    "references": [
+        "Game.Core",
+        "Unity.InputSystem"
+    ],
+    "autoReferenced": true
+}
